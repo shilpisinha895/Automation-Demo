@@ -13,5 +13,5 @@ To run this project. You should have below set up in the machine from where you'
    You can use https://www.selenium.dev/documentation/en/webdriver/driver_requirements/#quick-reference to download the correct versions of web drivers.
    
 # Run tests
-Use commands like ```Pytest -s -k <test name>```
+Use commands like ```pytest -s -k <test name>```
 
