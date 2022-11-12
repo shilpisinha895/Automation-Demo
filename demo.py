@@ -7,6 +7,7 @@ from selenium.common.exceptions import *
 
 if __name__ == '__main__':
     try:
+        # test comment
         driver = webdriver.Chrome("/Webdriver path")
         driver.get("https://mytestingthoughts.com/Sample/home.html")
         driver.maximize_window()
